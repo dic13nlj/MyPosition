@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyPosition</string>
+    <string name="action_settings">Settings</string>
+    <string name="MinKnapp">GET POSITION</string>
+    <string name="MinKnapp2">COMPASS</string>
+    <string name="title_activity_action">ActionActivity</string>
+    <string name="PositionsText"></string>
+    <string name="minKompassVy">compassView</string>
+    <string name="title_activity_action2">Action2Activity</string>
+    <string name="coordinateText"></string>
+    <string name="minKnap3">GET POSITION</string>
+
+
+</resources>
